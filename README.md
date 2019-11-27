@@ -1,4 +1,4 @@
-# Counter v1.0.0
+# Counter
 ### Author Ilmast Toivo
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
